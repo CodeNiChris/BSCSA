@@ -1,1 +1,7 @@
- 
+public class Car.java {
+	public static void main (String [] args) {
+		System.out.println("Hey, I love james ban");
+	
+	}
+
+} 
