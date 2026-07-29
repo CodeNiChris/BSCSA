@@ -1,7 +1,2 @@
-public class Car.java {
-	public static void main (String [] args) {
-		System.out.println("Hey, I love james ban");
-	
-	}
-
-}  
+I learned how to use git, commit, push, make file, delete file, make new branch, save to branch, and change to
+a different branch. YES! thank you sir japhet.
